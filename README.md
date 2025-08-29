@@ -1,5 +1,6 @@
 
-<img width="1600" height="896" alt="ComfyUI_temp_mveup_00019_" src="https://github.com/user-attachments/assets/68200fee-cf62-4fbb-95a1-a649946214d4" />
+![2d117b85-ad09-45ab-9efd-2e99af48b862 (1)](https://github.com/user-attachments/assets/99ee742d-9882-42c3-bdab-85e7426475d8)
+
 ## [Hey, it looks like you're writing a letter!](https://www.youtube.com/watch?v=Ifleu0VVAc0)
 
 <!--
