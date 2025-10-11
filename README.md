@@ -1,7 +1,11 @@
 
 ![2d117b85-ad09-45ab-9efd-2e99af48b862 (1)](https://github.com/user-attachments/assets/99ee742d-9882-42c3-bdab-85e7426475d8)
 
-## [Hey, it looks like you're writing a letter!](https://www.youtube.com/watch?v=Ifleu0VVAc0)
+##Buy me a beer with crypto
+
+Solana:
+<img width="160" height="160" alt="Solana" src="https://github.com/user-attachments/assets/1d8d2951-1ceb-4513-a4c6-1d41fe1d9afb" />
+
 
 <!--
 **marduk191/marduk191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
