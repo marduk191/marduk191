@@ -5,7 +5,7 @@
 
 <p>Solana:
 <img width="160" height="160" alt="Solana" src="https://github.com/user-attachments/assets/1d8d2951-1ceb-4513-a4c6-1d41fe1d9afb" />
-<p>Ethereum
+Ethereum
 <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/a2f0f7f7-a3c2-4b8d-af22-e2ad15ccdf03" />
 </p>
 
