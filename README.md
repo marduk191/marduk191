@@ -3,12 +3,8 @@
 
 Buy me a beer with crypto:
 
-<p>Solana:
-<img width="160" height="160" alt="Solana" src="https://github.com/user-attachments/assets/1d8d2951-1ceb-4513-a4c6-1d41fe1d9afb" />
-----------------------------------------------------------------
-<b>Ethereum:
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/a2f0f7f7-a3c2-4b8d-af22-e2ad15ccdf03" />
-</p>
+[![Donate](https://img.shields.io/badge/Donate-Support%20Development-blue)](https://yourusername.github.io/yourrepo/crypto-donate.html)
+
 
 <!--
 **marduk191/marduk191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
