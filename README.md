@@ -2,7 +2,7 @@
 ![2d117b85-ad09-45ab-9efd-2e99af48b862 (1)](https://github.com/user-attachments/assets/99ee742d-9882-42c3-bdab-85e7426475d8)
 
 
-[![Donate](https://img.shields.io/badge/Donate-Support%20Development-blue)](https://marduk191.github.io/marduk191/ghdonate.html)
+[![Donate](https://img.shields.io/badge/Donate-Support%20Development-blue)](https://marduk191.github.io/ghdonate.html)
 
 
 <!--
